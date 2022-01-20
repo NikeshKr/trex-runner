@@ -1,1 +1,1 @@
-# trex-runner
+Dinosaur Run App
